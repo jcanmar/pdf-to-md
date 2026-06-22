@@ -3,3 +3,4 @@ tesseract-ocr-spa
 tesseract-ocr-eng
 ghostscript
 qpdf
+unpaper
